@@ -41,14 +41,22 @@
 
 ---
 
-### 🌳 State machine Navigation in Robile  
+### :loop: State machine Navigation in Robile  
 - Designed a modular BT with fallback and sequence nodes  
 - Managed navigation, task allocation, and failure recovery  
 - Used with simulated robot in Robile framework
 [🔗 GitHub Repo](https://github.com/Jannen06/robotics_development_projects.git)
   
 ----
-### Deployed over 30 systems as Integration Engineer
+
+### 🧐 Robotics Simulator Investigation 
+- Designed and developed a controller for a robot. (ROS2 and Python)
+- Managed navigation, task allocation, and obstacle avoidance 
+- Used with a simulated robot in Webots framework
+[🔗 GitHub Repo](https://github.com/Jannen06/Robotics-Simulators)
+  
+----
+### Deployed over 30 systems as an Integration Engineer
 
 ## 📚 Education
 
