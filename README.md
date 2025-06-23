@@ -56,7 +56,7 @@
 [🔗 GitHub Repo](https://github.com/Jannen06/Robotics-Simulators)
   
 ----
-### Deployed over 30 systems as an Integration Engineer
+### Deployed over 30 systems as Robotics System Integration Engineer
 
 ## 📚 Education
 
