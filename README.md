@@ -56,6 +56,20 @@
 [🔗 GitHub Repo](https://github.com/Jannen06/Robotics-Simulators)
   
 ----
+
+### 🧠 Multi-Robot System
+A ROS2-based simulation framework for multi-robot coordination using Webots and Python/C++.
+Key features include:
+
+- Modular robot design with sensor integration (LIDAR, GPS, IMU)
+- Inter-robot communication and coordination
+- Autonomous navigation with topological and potential field planning
+- Constraint-based task allocation
+- Real-time visualization and ROS2 topic interfaces
+Tech Stack: ROS2 Humble, Webots, Python, C++, SMACH, Behavior Trees, A* Search
+[🔗 GitHub Repo](https://github.com/Jannen06/multi-robot-system)
+  
+----
 ### Deployed over 30 systems as Robotics System Integration Engineer
 
 ## 📚 Education
