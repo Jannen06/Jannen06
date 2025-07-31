@@ -66,6 +66,7 @@ Key features include:
 - Autonomous navigation with topological and potential field planning
 - Constraint-based task allocation
 - Real-time visualization and ROS2 topic interfaces
+
 Tech Stack: ROS2 Humble, Webots, Python, C++, SMACH, Behavior Trees, A* Search
 [🔗 GitHub Repo](https://github.com/Jannen06/multi-robot-system)
   
