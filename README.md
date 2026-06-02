@@ -6,6 +6,13 @@
 
 ---
 
+## 📩 Let's Connect
+
+in **[LinkedIn](https://www.linkedin.com/in/jannen-thyriar-099a7540/)**
+📫 **Email:** thyman_bathlo@yahoo.com  
+
+---
+
 ## 🔧 Technical Skills
 
 **Languages:** Python, Bash, C++, PHP, JS, VueJS
@@ -105,11 +112,3 @@ Currently learning German (A1.1 progressing...)
 **B.Sc in Applied Science**
 🇱🇰 Graduated | 2015
 Computer Science, Mathematics
-
-
----
-
-## 📩 Let's Connect
-
-📫 **Email:** thyman_bathlo@yahoo.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/jannen-thyriar-099a7540/))
