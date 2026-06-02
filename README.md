@@ -8,8 +8,7 @@
 
 ## 📩 Let's Connect
 
-in **[LinkedIn](https://www.linkedin.com/in/jannen-thyriar-099a7540/)**
-📫 **Email:** thyman_bathlo@yahoo.com  
+in **[LinkedIn](https://www.linkedin.com/in/jannen-thyriar-099a7540/)**     📫 **Email:** thyman_bathlo@yahoo.com  
 
 ---
 
