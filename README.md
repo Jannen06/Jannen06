@@ -2,20 +2,39 @@
 
 🎓 Master's student in Autonomous Systems  
 🤖 Focused on robotics, perception, and intelligent behavior systems  
-💼 Worked as Systems Integration Engineer for 6 years (Industrial Robots and Vision systems)
+💼 Working as a Software Developer (Working Student) in Germany 🇩🇪, and have been a Systems Integration Engineer for 7 years (Industrial Robots and Vision systems)
 
 ---
 
 ## 🔧 Technical Skills
 
-**Languages:** Python, Bash, C++  
-**Frameworks:** ROS2 (Humble), SMACH, Behavior Trees, Data Science  
-**Tools:** Gazebo, RViz, TF2, Git, Docker, Linux, MatLab, OpenRave.
+**Languages:** Python, Bash, C++, PHP, JS, VueJS
+**Frameworks:** ROS1, ROS2 (Humble), SMACH, Behavior Trees, Data Science, FastAPI, FLASK  
+**Tools:** Gazebo, RViz, TF2, Git, Docker, Linux, MatLab, OpenRave, Grafana, InfluxDB, MySQL
 **Methods:** A*, Potential Fields, Constraint Satisfaction, State Machines, RRT
 
 ---
 
 ## 🛠️ Projects (In recent times)
+
+
+### 🤖 HSR Restaurant Service Robot  
+
+- ROS Noetic implementation of an autonomous restaurant service robot built on the Toyota Human Support Robot (HSR) 
+- The system integrates perception, navigation, and human-robot interaction 
+- The robot detects customers, navigates to them, takes orders, and delivers items. 
+[🔗 GitHub Repo](https://github.com/Jannen06/vision-based-person-following-robot)
+
+---
+
+### 🤖 Intelligent Mobile Robots  
+
+- Autonomous Mobile Robot (AMR) project developed for the amr-ss25 course at HBRS 
+- Goal is to enable a Robile platform to autonomously navigate and map an unknown environment using ROS 2 Humble on Ubuntu 22.04
+- The core functionalities implemented are a hybrid navigation system, custom localization, and autonomous exploration. 
+[🔗 GitHub Repo](https://github.com/Jannen06/intelligent-mobile-robot)
+
+---
 
 ### 🧭 ROS2 Potential Fields Planner  
 - Implemented a real-time planner using attractive/repulsive forces  
